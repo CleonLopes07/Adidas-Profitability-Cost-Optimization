@@ -1,111 +1,108 @@
-# 📊 Adidas US Profitability & Cost Optimization Analysis
+# Adidas US Profitability & Cost Optimization (Excel + Power BI)
 
-Tools: Excel · Power BI · Business Analytics
-Domain: Retail | Pricing | Cost Optimization | Strategy
+## 📌 Project Overview
+This project is a **Business Analytics case study** focused on profitability optimization for Adidas US sales data.  
+The analysis goes beyond revenue reporting and provides a **profitability-first framework** using **Excel modeling** and **Power BI dashboarding**.
 
-🔍 Problem Statement
+The goal is to identify:
+- Which retailers generate high revenue but weak profit
+- Which product categories drive the majority of profit (Pareto 80/20)
+- Which regions/states have the strongest margin performance
+- How pricing and cost allocation scenarios affect profit outcomes
 
-Adidas operates across multiple retailers, regions, and product categories in the U.S. market. While topline sales may appear strong, profitability varies significantly across products, retailers, and regions due to differences in pricing, cost structures, and sales channels.
+---
 
-The business challenge is to identify where profits are truly generated and lost, and to evaluate pricing and cost optimization strategies that can improve long-term profitability without harming demand.
+## 🎯 Business Problem
+Adidas has strong sales performance in the US, but profitability is inconsistent due to:
+- Complex cost structures (logistics, marketing, store operations, channel fees)
+- Retailer-level margin variation
+- Lack of clear visibility into true profit drivers
 
-🎯 Project Objectives
+Revenue alone is not sufficient for strategic decision-making.
 
-Identify high- and low-performing products, retailers, and regions
+---
 
-Understand true profitability after cost allocation
+## ✅ Objectives
+- Build an Excel profitability model (KPI framework + cost allocation)
+- Develop a Power BI dashboard with DAX measures
+- Perform Pareto analysis on product/category profitability
+- Simulate pricing scenarios (what-if analysis)
+- Analyze retailer profitability performance
+- Identify regional investment opportunities
+- Deliver consulting-style recommendations
 
-Evaluate pricing strategies using what-if simulations
+---
 
-Provide data-backed, consulting-style recommendations
+## 🧰 Tools & Technologies
+- **Microsoft Excel** (data cleaning, KPI model, cost allocation)
+- **Power BI** (dashboard development, DAX measures, scenario simulation)
+- **DAX** (profitability measures, Pareto calculations, what-if modeling)
+- **GitHub** (project documentation & portfolio publishing)
 
-Build an executive-ready dashboard for decision-makers
+---
 
-🧰 Tools & Technologies Used
-Tool	Purpose
-Excel	Data cleaning, KPI modeling, cost allocation, pricing simulations
-Power BI	Data modeling, DAX measures, interactive dashboards
-DAX	Profitability metrics, scenario analysis, Pareto calculations
-📂 Data Overview
+## 📊 Dashboard Pages (Power BI)
+1. **Executive Summary**
+2. **Retailer Profitability Deep Dive**
+3. **Product & Category Profitability (Pareto Analysis)**
+4. **Pricing & What-If Simulation**
+5. **Cost Allocation & Scenario Comparison**
+6. **Regional Performance**
+7. **QA, Validation & Data Dictionary**
 
-The dataset contains 29+ business variables, including:
+---
 
-Sales, units sold, and pricing
+## 🔑 Key Insights (High-Level)
+- Profitability varies widely across retailers and regions.
+- Several high-revenue retailers underperform in profit margin.
+- Pareto effect exists: ~20% of products generate most of the total profit.
+- Logistics + marketing costs are key profit erosion drivers.
+- Pricing simulations show margin improvements are possible through controlled price optimization.
 
-Cost components (COGS, marketing, logistics, overhead)
+---
 
-Retailers and sales channels
+## 💡 Strategic Recommendations
+- Apply pricing optimization based on product elasticity
+- Reduce long-tail SKU complexity
+- Renegotiate terms with low-margin retailers
+- Improve logistics efficiency and marketing spend allocation
+- Prioritize investment in high-margin states and channels
 
-Product categories and regions
+---
 
-📈 Key Analyses Performed
-1. Executive Profitability Overview
+## 📁 Repository Structure
+```
+Adidas-Profitability-Cost-Optimization/
+│
+├── 01_Data/
+├── 02_Excel_Model/
+├── 03_PowerBI_Dashboard/
+├── 04_Reports_CaseStudy/
+├── 05_PPT_Deck/
+├── 06_Screenshots/
+├── 07_Documentation/
+└── README.md
+```
 
-Revenue, profit, margin KPIs
+---
 
-Channel performance comparison (Online vs In-Store)
+## 📌 Deliverables
+- 📊 Excel Profitability Model Workbook
+- 📈 Power BI Dashboard (.pbix)
+- 🧾 Case Study Report (PDF)
+- 🎤 Consulting PPT Deck
+- 📄 Documentation (DAX measures + Data dictionary)
 
-2. Retailer Profitability Deep Dive
+---
 
-High-revenue but low-margin retailers identified
+## 👤 Author
+**Cleon Lopes**  
+Business Analytics / Data Analytics Student  
 
-Profit leakage after cost allocation
+📌 LinkedIn: *(Add your link here)*  
+📌 GitHub: *(Add your link here)*  
 
-3. Product & Category Profitability (Pareto Analysis)
+---
 
-~20–30% of products generate ~70–80% of profit
-
-Long tail of low-margin SKUs identified
-
-4. Pricing & What-If Simulation
-
-Elastic vs inelastic products tested
-
-Price increases improve profit for select SKUs
-
-5. Cost Allocation & Scenario Comparison
-
-Impact of logistics and marketing costs analyzed
-
-Scenario comparison of cost optimization strategies
-
-6. Geographic / Regional Performance
-
-Regional growth and margin comparison
-
-Investment prioritization recommendations
-
-💡 Key Business Insights
-
-High revenue ≠ high profitability
-
-Some retailers destroy value after cost allocation
-
-Profit is concentrated in a small subset of products
-
-Selective price increases can materially improve margins
-
-Cost optimization has greater impact than volume growth alone
-
-📌 Strategic Recommendations
-
-Optimize Pricing
-
-Increase prices for inelastic, high-margin products
-
-Retailer Rationalization
-
-Renegotiate or exit consistently unprofitable retailers
-
-Cost Control
-
-Optimize logistics and marketing allocation
-
-Growth Focus
-
-Invest in high-margin regions and categories
-
-
-🚀 Outcome
-
-This project demonstrates an end-to-end profitability optimization workflow, combining Excel modeling, Power BI analytics, and consulting-style insight generation, suitable for Business Analyst, Strategy, and Consulting roles.
+## ⭐ If you like this project
+Feel free to fork the repository and use the framework for similar retail profitability case studies.
