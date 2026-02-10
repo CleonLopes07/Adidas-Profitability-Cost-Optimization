@@ -99,10 +99,6 @@ Adidas-Profitability-Cost-Optimization/
 **Cleon Lopes**  
 Business Analytics / Data Analytics Student  
 
-📌 LinkedIn: *(Add your link here)*  
-📌 GitHub: *(Add your link here)*  
-
----
 
 ## ⭐ If you like this project
 Feel free to fork the repository and use the framework for similar retail profitability case studies.
